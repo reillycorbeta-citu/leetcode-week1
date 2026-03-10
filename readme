@@ -1,0 +1,5 @@
+Palindomre Number 
+Easy
+A palindrome number is a number that looks the same when read from left to right and from right to left. For example, 121 stays 121 even if we reverse it, so it is a palindrome.
+
+To check this, we reverse the digits of the number by repeatedly taking the last digit and building a new number. After reversing, we compare it with the original number. If both are the same, the number is a palindrome; otherwise, it is not. Negative numbers are automatically not palindromes because the minus sign only appears at the beginning.
